@@ -3,9 +3,14 @@
     padding: 0;
     box-sizing: border-box;
   }
+
   ul {
       list-style: none;
   }
+
+a {
+    text-decoration: none;
+}
   body {
     color: white;
     background-color: rgb(119, 116, 116);
